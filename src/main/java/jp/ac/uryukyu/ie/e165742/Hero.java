@@ -1,4 +1,4 @@
-package ac.jp.uryukyu.ie.e165742;
+package jp.ac.uryukyu.ie.e165742;
 
 /**
  * Created by e165742 on 2016/11/16.

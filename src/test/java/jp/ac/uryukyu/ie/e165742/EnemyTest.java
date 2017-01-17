@@ -1,4 +1,4 @@
-package ac.jp.uryukyu.ie.e165742;
+package jp.ac.uryukyu.ie.e165742;
 
 import org.junit.Test;
 
